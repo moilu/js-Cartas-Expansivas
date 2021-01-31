@@ -9,7 +9,7 @@ clickeadas utilizando 'eventListeners' de JavaScript y la propiedad transition p
 
 Aquí podrás encontrar un despliegue del proyecto:
 
-https://moilu.github.io/js-Cartas-Expansivas/
+https://moilu.github.io/js-cartas-expansivas/
 
 ## Licencia
 
